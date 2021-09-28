@@ -29,9 +29,7 @@ public class ParallelCoroutineTest : MonoBehaviour
         yield return new WaitForSeconds(2f);
         
         // Cancel Coroutine
-        StopCoroutine(result.mainCoroutine);
-        foreach (var col in result.childCoroutineList)
-            StopCoroutine(col);
+        result.StopCoroutine();
     }
 
     IEnumerator TestCoroutine(int id, float sec = 1f)
