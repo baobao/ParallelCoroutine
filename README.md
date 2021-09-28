@@ -55,7 +55,7 @@ You can add `https://github.com/baobao/ParallelCoroutine.git` to Package Manager
 
 or 
 
-Add `"info.shibuya24.parallelcoroutine":"https://github.com/baobao/ParallelCoroutine.git"` 
+Add `"info.shibuya24.parallelcoroutine": "https://github.com/baobao/ParallelCoroutine.git"` 
 to Packages/manifest.json.
   
 
