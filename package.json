@@ -1,6 +1,6 @@
 {
     "name": "info.shibuya24.parallelcoroutine",
-    "displayName": "ParallelCoroutine",
+    "displayName": "Parallel Coroutine",
     "version": "1.0.0",
     "unity": "2019.4",
     "description": "A coroutine that can be executed in parallel.",
