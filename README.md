@@ -2,7 +2,8 @@
 
 A coroutine that can be executed in parallel.
 
-![output-palette-none](https://user-images.githubusercontent.com/144386/135176258-921fc1f9-a6ca-49ff-8e66-6f529c2544da.gif)
+![output-palette-none](https://user-images.githubusercontent.com/144386/135176360-ccefa8da-6253-4554-a2c4-357ae64bc82c.gif)
+
 
 ## Usage
 
