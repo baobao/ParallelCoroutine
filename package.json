@@ -1,9 +1,9 @@
 {
     "name": "info.shibuya24.parallelcoroutine",
-    "displayName": "A coroutine that can be executed in parallel.",
+    "displayName": "ParallelCoroutine",
     "version": "1.0.0",
     "unity": "2019.4",
-    "description": "Wrapper class of UnityEngine.PlayerPrefs..",
+    "description": "A coroutine that can be executed in parallel.",
     "keywords": [ "Unity" ],
     "license": "MIT",
     "category": "Unity",
